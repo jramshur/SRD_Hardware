@@ -1,0 +1,16 @@
+version;4;4;http://eagleup.wordpress.com/;
+settings;G:/Circuits/models/;C:/Program Files (x86)/ImageMagick-6.8.0-Q8/convert.exe;C:/Program Files (x86)/ImageMagick-6.8.0-Q8/composite.exe;del;
+color;0x266844;0x208549;silver;white;
+images;G:/Dropbox/PhD/SRD/SRD_PCB/Programming_Adaptor_PCB/eagleUp/;eagleUp_PSOC_10pin_to_ZIF;png;1200;png;
+outline-line;0.000000;0.000000;18.000000;0.000000;1.600000;
+outline-line;18.000000;0.000000;18.000000;11.500000;1.600000;
+outline-line;18.000000;11.500000;0.000000;11.500000;1.600000;
+outline-line;0.000000;11.500000;0.000000;0.000000;1.600000;
+outline;0.000000;0.000000;18.000000;11.500000;1.600000;
+outline-complete;1.60;
+hole;4.300;5.500;0.300;0.800;
+hole;9.700;8.300;0.300;0.800;
+hole-complete;element;2;silver;
+package;C1;7.820;2.290;270;0.1uF;CAPC1608X90N;0.800;
+package;H1;13.440;5.790;90;2X5_SMD_HEADER_1.27MM;2X5_SMD_HEADER_1.27MM;0.800;
+package;H2;4.880;5.790;270;52746-6;52746-6;0.800;
