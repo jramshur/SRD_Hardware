@@ -5,10 +5,10 @@
 The simultaneous stimulation-and-recording device (SRD) is a Bluetooth wireless brain-computer interface system designed for use in awake rats. This repository contains design files for the SRD hardware including Eagle PCB files and 3D design files for the enclosure.
 
 ### Features
-- programmable analog and digital filters
-- include more....
+- Cypress Semiconductor PSoC 3 System-on-a-Chip 
+- Intan Technologies digital electrophysiology interface chip
+- more ...
 
-	
 ![](https://raw.githubusercontent.com/wiki/jramshur/SRD_Hardware/images/3D/SRD_pcb_4.png)
 
 ![](https://raw.githubusercontent.com/wiki/jramshur/SRD_Hardware/images/3D/SRD_case_noTop_3.png)
@@ -16,14 +16,16 @@ The simultaneous stimulation-and-recording device (SRD) is a Bluetooth wireless 
 ## Wiki Navigation
 
 * [Home][home]
-* [Installation][install]
-* [Quick Start Guide][quickstart]
-* [Input-Output][io]
+* [Circuit Design][circuit]
+* [PCB Design][pcb]
+* [Enclosure][enclosure]
+* [Programming Adaptor][adaptor]
 
-[home]: https://github.com/jramshur/SRD_GUI/wiki/Home
-[install]: https://github.com/jramshur/SRD_GUI/wiki/Install
-[quickstart]: https://github.com/jramshur/SRD_GUI/wiki/Quick-Start
-[io]: https://github.com/jramshur/SRD_GUI/wiki/Input-Output
+[home]: https://github.com/jramshur/SRD_Hardware/wiki/Home
+[circuit]: https://github.com/jramshur/SRD_Hardware/wiki/Circuit
+[pcb]: https://github.com/jramshur/SRD_Hardware/wiki/PCB
+[enclosure]: https://github.com/jramshur/SRD_Hardware/wiki/Enclosure
+[adaptor]: https://github.com/jramshur/SRD_Hardware/wiki/Programming-Adaptor
 
 ## Contact Info
 
