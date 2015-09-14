@@ -19,12 +19,14 @@ The simultaneous stimulation-and-recording device (SRD) is a Bluetooth wireless 
 * [Circuit Design][circuit]
 * [PCB Design][pcb]
 * [Enclosure][enclosure]
+* [Battery][battery]
 * [Programming Adaptor][adaptor]
 
 [home]: https://github.com/jramshur/SRD_Hardware/wiki/Home
 [circuit]: https://github.com/jramshur/SRD_Hardware/wiki/Circuit
 [pcb]: https://github.com/jramshur/SRD_Hardware/wiki/PCB
 [enclosure]: https://github.com/jramshur/SRD_Hardware/wiki/Enclosure
+[battery]: https://github.com/jramshur/SRD_Hardware/wiki/Battery
 [adaptor]: https://github.com/jramshur/SRD_Hardware/wiki/Programming-Adaptor
 
 ## Contact Info
