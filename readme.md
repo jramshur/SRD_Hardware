@@ -9,6 +9,10 @@ The simultaneous stimulation-and-recording device (SRD) is a Bluetooth wireless 
 - Intan Technologies digital electrophysiology interface chip
 - more ...
 
+### System Overview
+
+![](https://raw.githubusercontent.com/wiki/jramshur/SRD_Hardware/images/SystemOverview.png)
+
 ![](https://raw.githubusercontent.com/wiki/jramshur/SRD_Hardware/images/3D/SRD_pcb_4.png)
 
 ![](https://raw.githubusercontent.com/wiki/jramshur/SRD_Hardware/images/3D/SRD_case_noTop_3.png)
