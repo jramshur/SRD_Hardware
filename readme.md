@@ -1,5 +1,12 @@
 # SRD Hardware
 
+The simultaneous stimulation-and-recording device (SRD) is a wearable, wireless brain-computer interface system designed to train cortical circuits in awake rats. This repository contains design files for the SRD hardware including Eagle PCB files and 3D design files for the enclosure.
+
+Software and firmware for this hardware system can be found in the following repositories:
+
+- https://github.com/jramshur/SRD_Firmware
+- https://github.com/jramshur/SRD_GUI
+
 ## Description
 
 The simultaneous stimulation-and-recording device (SRD) is a Bluetooth wireless brain-computer interface system designed for use in awake rats. This repository contains design files for the SRD hardware including Eagle PCB files and 3D design files for the enclosure.
